@@ -1,0 +1,17 @@
+/vendor
+/writable/cache
+/writable/logs
+/writable/session
+/writable/uploads
+
+.env
+.idea
+.vscode
+composer.lock
+/spark
+/public/index.php
+/public/assets
+/public/css
+/public/js
+/public/vendor
+/public/robots.txt
